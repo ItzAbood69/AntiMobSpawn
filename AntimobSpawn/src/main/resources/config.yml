@@ -1,0 +1,10 @@
+# Worlds where mob spawning should be restricted
+disabled-worlds:
+  - world
+  - world_nether
+
+# Mobs allowed to spawn (leave empty to allow all mobs)
+allowed-mobs:
+  - COW
+  - SHEEP
+  - CHICKEN

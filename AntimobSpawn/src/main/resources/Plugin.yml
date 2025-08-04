@@ -1,0 +1,15 @@
+name: NoMobSpawn
+version: 1.0
+main: com.yourname.nomobspawn.NoMobSpawn
+api-version: 1.20
+author: YourName
+
+commands:
+  nomobspawn:
+    description: Control plugin settings
+    usage: /nomobspawn [reload]
+
+permissions:
+  nomobspawn.reload:
+    description: Permission to reload the plugin
+    default: op
